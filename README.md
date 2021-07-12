@@ -1,2 +1,3 @@
 # dsr-b27-test
-test
+
+This is our first project!
